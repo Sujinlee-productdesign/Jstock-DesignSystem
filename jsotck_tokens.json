@@ -442,7 +442,7 @@
       }
     },
     "background": {
-      "white": {
+      "screen": {
         "value": "{White}",
         "type": "color"
       },
@@ -551,7 +551,153 @@
         "type": "color"
       },
       "unissued-surface": {
+        "value": "{Grey.700}",
+        "type": "color"
+      },
+      "text-onSurface": {
+        "value": "{White}",
+        "type": "color"
+      }
+    }
+  },
+  "dark": {
+    "text": {
+      "primary": {
+        "value": "{Grey.200}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{Grey.300}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{Grey.400}",
+        "type": "color"
+      },
+      "qauternary": {
+        "value": "{Grey.500}",
+        "type": "color"
+      },
+      "quinary": {
         "value": "{Grey.600}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "screen": {
+        "value": "{Background.Black}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{Grey.700}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "active": {
+        "value": "{Grey.900}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{Grey.700}",
+        "type": "color"
+      },
+      "input": {
+        "value": "{Grey.700}",
+        "type": "color"
+      }
+    },
+    "CTA-button": {
+      "sell-default-surface": {
+        "value": "{Blue.400}",
+        "type": "color"
+      },
+      "buy-default-surface": {
+        "value": "{Orange.500}",
+        "type": "color"
+      },
+      "inactive-surface": {
+        "value": "{Grey.400}",
+        "type": "color"
+      },
+      "login-gradation-surface": {
+        "value": "{Primary - Linear}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "active": {
+        "value": "{Grey.500}",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "{Grey.700}",
+        "type": "color"
+      },
+      "hightlight": {
+        "value": "{Yellow.300}",
+        "type": "color"
+      }
+    },
+    "box": {
+      "primary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{Grey.900}",
+        "type": "color"
+      }
+    },
+    "Dim": {
+      "value": "#212121bf",
+      "type": "color"
+    },
+    "stockPrice": {
+      "rise": {
+        "value": "{Red.400}",
+        "type": "color"
+      },
+      "fall": {
+        "value": "{Blue.400}",
+        "type": "color"
+      }
+    },
+    "badge": {
+      "VC-surface": {
+        "value": "{Blue.800}",
+        "type": "color"
+      },
+      "unissued-surface": {
+        "value": "{Grey.700}",
+        "type": "color"
+      },
+      "text-onSurface": {
+        "value": "{Grey.100}",
         "type": "color"
       }
     }
@@ -560,7 +706,8 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "light"
+      "light",
+      "dark"
     ]
   }
 }
