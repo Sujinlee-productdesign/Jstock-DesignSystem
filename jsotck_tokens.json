@@ -412,10 +412,8 @@
         "value": "#bdbdbd",
         "type": "color"
       }
-    }
-  },
-  "light": {
-    "Box": {
+    },
+    "box": {
       "Primary": {
         "value": "#fafafb",
         "type": "color"
@@ -428,7 +426,9 @@
         "value": "#f4f8fc",
         "type": "color"
       }
-    },
+    }
+  },
+  "light": {
     "text": {
       "primary": {
         "value": "#0b1024",
@@ -528,10 +528,6 @@
       }
     },
     "box": {
-      "Primary": {
-        "value": "#fafafb",
-        "type": "color"
-      },
       "primary": {
         "value": "#fafafb",
         "type": "color"
@@ -541,14 +537,6 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#f4f8fc",
-        "type": "color"
-      },
-      "Secondary": {
-        "value": "#f5f6f7",
-        "type": "color"
-      },
-      "Tertiary": {
         "value": "#f4f8fc",
         "type": "color"
       }
