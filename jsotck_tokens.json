@@ -8,14 +8,6 @@
       "value": "#ffffff",
       "type": "color"
     },
-    "Box - Primary": {
-      "value": "#fafafb",
-      "type": "color"
-    },
-    "Box - Secondary": {
-      "value": "#f5f6f7",
-      "type": "color"
-    },
     "Primary - Linear": {
       "value": "linear-gradient(221deg, #1672ff 0%, #0030ff 74.48%, #0042ff 100%, #001eaa 100%)",
       "type": "color"
@@ -25,14 +17,6 @@
       "type": "color",
       "description": "text-color"
     },
-    "blue-500": {
-      "value": "#0064ff",
-      "type": "color"
-    },
-    "Box-Tertiary": {
-      "value": "#f4f8fc",
-      "type": "color"
-    },
     "Black": {
       "value": "#000000",
       "type": "color"
@@ -41,7 +25,7 @@
       "value": "#212121bf",
       "type": "color"
     },
-    "Tab": {
+    "Icon": {
       "Navi - Active": {
         "value": "#171f46",
         "type": "color"
@@ -426,128 +410,150 @@
         "value": "#f4f8fc",
         "type": "color"
       }
+    },
+    "Background": {
+      "Black": {
+        "value": "#262424",
+        "type": "color"
+      }
     }
   },
   "light": {
     "text": {
       "primary": {
-        "value": "#0b1024",
+        "value": "{Text - Color}",
         "type": "color"
       },
       "secondary": {
-        "value": "#424242",
+        "value": "{Grey.800}",
         "type": "color"
       },
       "tertiary": {
-        "value": "#616161",
+        "value": "{Grey.700}",
         "type": "color"
       },
       "qauternary": {
-        "value": "#757575",
+        "value": "{Grey.600}",
         "type": "color"
       },
       "quinary": {
-        "value": "#bdbdbd",
+        "value": "{Grey.400}",
         "type": "color"
       }
     },
     "background": {
       "white": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color"
       },
       "primary": {
-        "value": "#fafafb",
+        "value": "{Box.Primary}",
         "type": "color"
       },
       "secondary": {
-        "value": "#f5f6f7",
+        "value": "{Box.Secondary}",
         "type": "color"
       },
       "tertiary": {
-        "value": "#f4f8fc",
+        "value": "{Box.Tertiary}",
         "type": "color"
       },
       "divider": {
-        "value": "#f5f5f5",
+        "value": "{Grey.100}",
         "type": "color"
       },
       "accent": {
-        "value": "#eeeeee",
+        "value": "{Grey.200}",
         "type": "color"
       }
     },
     "border": {
       "active": {
-        "value": "#212121",
+        "value": "{Grey.900}",
         "type": "color"
       },
       "primary": {
-        "value": "#e0e0e0",
+        "value": "{Grey.300}",
         "type": "color"
       },
       "secondary": {
-        "value": "#eeeeee",
+        "value": "{Grey.200}",
         "type": "color"
       },
       "input": {
-        "value": "#bdbdbd",
+        "value": "{Grey.400}",
         "type": "color"
       }
     },
     "CTA-button": {
       "sell-default-surface": {
-        "value": "#0137ff",
+        "value": "{Blue.600}",
         "type": "color"
       },
       "buy-default-surface": {
-        "value": "#ff3b30",
+        "value": "{Orange.500}",
         "type": "color"
       },
       "inactive-surface": {
-        "value": "#bdbdbd",
+        "value": "{Grey.400}",
         "type": "color"
       },
       "login-gradation-surface": {
-        "value": "linear-gradient(221deg, #1672ff 0%, #0030ff 74.48%, #0042ff 100%, #001eaa 100%)",
+        "value": "{Primary - Linear}",
         "type": "color"
       }
     },
-    "Icon": {
+    "icon": {
       "active": {
-        "value": "#171f46",
+        "value": "{Icon.Navi - Active}",
         "type": "color"
       },
       "inactive": {
-        "value": "#b6b7bd",
+        "value": "{Icon.Navi - Inactive}",
         "type": "color"
       },
       "hightlight": {
-        "value": "#ffb800",
+        "value": "{Yellow.500}",
         "type": "color"
       }
     },
     "box": {
       "primary": {
-        "value": "#fafafb",
+        "value": "{Box.Primary}",
         "type": "color"
       },
       "secondary": {
-        "value": "#f5f6f7",
+        "value": "{Box.Secondary}",
         "type": "color"
       },
       "tertiary": {
-        "value": "#f4f8fc",
+        "value": "{Box.Tertiary}",
         "type": "color"
       }
-    },
-    "Black": {
-      "value": "#000000",
-      "type": "color"
     },
     "Dim": {
       "value": "#212121bf",
       "type": "color"
+    },
+    "stockPrice": {
+      "rise": {
+        "value": "{Red.500}",
+        "type": "color"
+      },
+      "fall": {
+        "value": "{Blue.500}",
+        "type": "color"
+      }
+    },
+    "badge": {
+      "VC-surface": {
+        "value": "{Blue.600}",
+        "type": "color"
+      },
+      "unissued-surface": {
+        "value": "{Grey.600}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
