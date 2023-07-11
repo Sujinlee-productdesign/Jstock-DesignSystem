@@ -69,7 +69,7 @@
         "type": "color"
       },
       "900": {
-        "value": "#33020b",
+        "value": "#34040d",
         "type": "color"
       }
     },
@@ -439,6 +439,10 @@
       "quinary": {
         "value": "{Grey.400}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{Blue.500}",
+        "type": "color"
       }
     },
     "background": {
@@ -465,6 +469,22 @@
       "accent": {
         "value": "{Grey.200}",
         "type": "color"
+      },
+      "accent-Red-default-surface": {
+        "value": "{Red.200}",
+        "type": "color"
+      },
+      "accent-Red-weeken-surface": {
+        "value": "{Red.100}",
+        "type": "color"
+      },
+      "topFixed-sell": {
+        "value": "{Blue.100}",
+        "type": "color"
+      },
+      "listOutdated-inactive": {
+        "value": "#",
+        "type": "color"
       }
     },
     "border": {
@@ -482,6 +502,14 @@
       },
       "input": {
         "value": "{Grey.400}",
+        "type": "color"
+      },
+      "topFixed-profile-sell": {
+        "value": "{Blue.500}",
+        "type": "color"
+      },
+      "topFixed-profile-buy": {
+        "value": "{Red.500}",
         "type": "color"
       }
     },
@@ -514,6 +542,14 @@
       },
       "hightlight": {
         "value": "{Yellow.500}",
+        "type": "color"
+      },
+      "checkedStock-fill": {
+        "value": "{Green.400}",
+        "type": "color"
+      },
+      "checkedStock-flag-fill": {
+        "value": "{Blue.500}",
         "type": "color"
       }
     },
@@ -554,8 +590,26 @@
         "value": "{Grey.700}",
         "type": "color"
       },
+      "checkedStock": {
+        "value": "{Blue.500}",
+        "type": "color"
+      },
       "text-onSurface": {
         "value": "{White}",
+        "type": "color"
+      },
+      "text-Negotiation-onSurface": {
+        "value": "{Blue.500}",
+        "type": "color"
+      }
+    },
+    "button-label": {
+      "contract-default-fill": {
+        "value": "{Blue.500}",
+        "type": "color"
+      },
+      "contract-save-fill": {
+        "value": "{Green.500}",
         "type": "color"
       }
     }
@@ -581,6 +635,10 @@
       "quinary": {
         "value": "{Grey.600}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{Blue.400}",
+        "type": "color"
       }
     },
     "background": {
@@ -601,11 +659,19 @@
         "type": "color"
       },
       "divider": {
-        "value": "{Grey.800}",
+        "value": "{Grey.900}",
         "type": "color"
       },
       "accent": {
         "value": "{Grey.700}",
+        "type": "color"
+      },
+      "accent-Red-default-surface": {
+        "value": "{Red.900}",
+        "type": "color"
+      },
+      "topFixed-sell": {
+        "value": "{Blue.900}",
         "type": "color"
       }
     },
@@ -624,6 +690,14 @@
       },
       "input": {
         "value": "{Grey.700}",
+        "type": "color"
+      },
+      "topFixed-profile-sell": {
+        "value": "{Blue.400}",
+        "type": "color"
+      },
+      "topFixed-profile-buy": {
+        "value": "{Red.400}",
         "type": "color"
       }
     },
@@ -656,6 +730,14 @@
       },
       "hightlight": {
         "value": "{Yellow.300}",
+        "type": "color"
+      },
+      "checkedStock-fill": {
+        "value": "{Green.400}",
+        "type": "color"
+      },
+      "checkedStock-flag-fill": {
+        "value": "{Blue.400}",
         "type": "color"
       }
     },
@@ -696,8 +778,26 @@
         "value": "{Grey.700}",
         "type": "color"
       },
+      "checkedStock": {
+        "value": "{Blue.800}",
+        "type": "color"
+      },
       "text-onSurface": {
         "value": "{Grey.100}",
+        "type": "color"
+      },
+      "text-Negotiation-onSurface": {
+        "value": "{Blue.400}",
+        "type": "color"
+      }
+    },
+    "button-label": {
+      "contract-default-fill": {
+        "value": "{Blue.400}",
+        "type": "color"
+      },
+      "contract-save-fill": {
+        "value": "{Green.400}",
         "type": "color"
       }
     }
