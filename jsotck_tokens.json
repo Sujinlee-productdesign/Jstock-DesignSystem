@@ -529,6 +529,10 @@
       "login-gradation-surface": {
         "value": "{Primary - Linear}",
         "type": "color"
+      },
+      "text-onSurface": {
+        "value": "{White}",
+        "type": "color"
       }
     },
     "icon": {
@@ -716,6 +720,10 @@
       },
       "login-gradation-surface": {
         "value": "{Primary - Linear}",
+        "type": "color"
+      },
+      "text-onSurface": {
+        "value": "{White}",
         "type": "color"
       }
     },
