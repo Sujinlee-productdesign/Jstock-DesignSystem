@@ -681,7 +681,7 @@
     },
     "border": {
       "active": {
-        "value": "{Grey.900}",
+        "value": "{Grey.100}",
         "type": "color"
       },
       "primary": {
